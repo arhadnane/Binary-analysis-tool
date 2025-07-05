@@ -38,7 +38,7 @@ A comprehensive binary analysis tool built in C# (.NET 7) capable of analyzing, 
 
 ### Setup
 ```bash
-git clone <repository-url>
+git clone https://github.com/arhadnane/Binary-analysis-tool.git
 cd "Binary analysis tool"
 cd BinaryAnalyzer
 dotnet restore
@@ -262,6 +262,6 @@ For questions, bug reports, or feature requests, please open an issue on the rep
 
 ---
 
-**Last updated:** July 4, 2025
+**Last updated:** July 5, 2025
 
 *Built with ❤️ using C# and .NET*
